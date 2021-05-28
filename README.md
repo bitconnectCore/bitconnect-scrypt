@@ -14,6 +14,8 @@ MXE (Microsoft) - https://github.com/mxe/mxe
 
 Notes:
 
+Working platform specific scripts example: linux 14
+
 How to make MXE and install packages (relevent to compiling bitconnect).
 
 How to add path.
