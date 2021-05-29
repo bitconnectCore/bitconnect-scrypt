@@ -1,6 +1,6 @@
-# bitconnect-Scrypt
+# bitconnect-scrypt
 
-**BlockChain Development Dependencies, ToolChain And Enviroments**
+**bitconnect BlockChain Development Dependencies, ToolChain And Enviroments**
 
 Tester:
 
@@ -12,7 +12,7 @@ sudo wget -L https://raw.githubusercontent.com/bitconnectCore/bitconnect-scrypt/
 MXE (Microsoft) - https://github.com/mxe/mxe
 
 
-Notes:
+**Notes:**
 
 Working platform specific scripts example: linux 14
 
@@ -20,6 +20,6 @@ How to make MXE and install packages (relevent to compiling bitconnect).
 
 How to add path.
 
-Complete and individual bash commands below for troubleshooting, example: 
+All complete individual linux bash dependency commands relevent to bitconnect below for troubleshooting, example: 
 
 sudo apt-get install libminiupnpc-dev
